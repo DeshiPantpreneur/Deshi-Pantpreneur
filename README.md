@@ -80,4 +80,8 @@ All built for the real lives of real people.
 > _“Not made to impress. Made to represent.”_  
 > **Made in Bangladesh. Made with Purpose.**
 
+Commit changes
+[ Added tech stack and contact section ]
+[ Commit directly to the main branch ]  (✔️ Checked)
+[Green Button] ✔ Commit changes
 
