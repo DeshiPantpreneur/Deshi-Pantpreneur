@@ -51,24 +51,6 @@ All built for the real lives of real people.
 ## 🧰 Folder Structure
 ...
 
-## 🧰 Folder Structure
-
-📁 Deshi-Pantpreneur/
-├── README.md
-├── /assets
-├── /docs
-├── /site-content
-└── .gitignore
-
----            ← PASTE HERE!
-
-## 🛠️ Tech Stack (Dev Notes)
-
-- **Wix** – Website Builder & Hosting  
-- **GitHub** – Version Control  
-- *(Future ready: HTML, CSS, JS)*
-
----
 
 ## 📩 Contact Us
 
