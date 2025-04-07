@@ -1,69 +1,83 @@
-# Deshi-Pantpreneur
-Deshi Pantpreneur – Goriber Garb! We bring export-quality T-shirts, shirts, jeans, and gabardine at affordable prices. Made for Bangladesh’s hardworking youth and middle-class heroes. Style like a boss, spend like a bro. Deshi roots, foreign fits – always for the gorib and proud!
-# Deshi Pantpreneur — Goriber Garb
+# Deshi Pantpreneur — Goriber Garb 👕🇧🇩
 
 **We don’t dress kings. We dress the people who build kingdoms.**  
-Deshi Pantpreneur is a humble revolution in fashion — a brand born for Bangladesh’s poor and middle class, delivering export-quality garments at prices that don’t hurt.
+Deshi Pantpreneur is a fashion movement for Bangladesh’s poor and middle class — delivering export-quality jeans, T-shirts, and shirts at prices everyone can afford.
 
 ---
 
 ## 👁️ Vision
 
-To become the trusted clothing name for every hardworking person across Bangladesh — from rickshaw pullers to students, from street vendors to dreamers.
+To become the trusted style choice for every hardworking Bangladeshi — from rickshaw pullers to students, from street vendors to dreamers.
 
 ---
 
-## 🧵 What We Offer
+## 🧵 Our Products
 
-- 👕 Half Sleeve Export Quality T-Shirts  
-- 👔 Full Sleeve Cotton Shirts  
-- 👖 Durable & Comfortable Jeans Pants  
-- 🩳 Gabardine for daily wear
+- 👕 **Half Sleeve Export Quality T-Shirts**
+- 👔 **Full Sleeve Cotton Shirts**
+- 👖 **Durable Jeans Pants**
+- 🩳 **Gabardine for Daily Comfort**
 
-All crafted for real-life wear — stylish, strong, and affordable.
+All built for the real lives of real people.
 
 ---
 
 ## 💡 Why Deshi Pantpreneur?
 
-- Export-quality garments at local-friendly prices  
-- Designed for the resilient, not the rich  
-- Proudly local (Deshi) and proudly powerful  
-- A brand stitched with sweat, not silk
+- Affordable export-quality garments
+- Designed for the resilient, not the rich
+- 100% Deshi — stitched with sweat, not silk
+- A brand for pride, not just style
 
 ---
 
-## 🛠️ Tech Stack (For Developers)
+## 🌐 Connect With Us
 
-If you're using this repo to build the brand's website or system:
-
-- Wix (Front-end & Hosting)  
-- GitHub (Repo & Version control)  
-- Optional: HTML/CSS/JS for custom elements (future-ready)
+[![Facebook](https://img.shields.io/badge/Facebook-DeshiPantpreneur-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/DeshiPantpreneur)  
+[![Instagram](https://img.shields.io/badge/Instagram-DeshiPantpreneur-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/DeshiPantpreneur)  
+[![TikTok](https://img.shields.io/badge/TikTok-DeshiPantpreneur-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@DeshiPantpreneur)
 
 ---
 
-## 🚀 Future Plans
+## 🚀 What’s Next
 
-- Launch full online store (Wix or Shopify)
-- Add mobile responsiveness and multi-language support
-- Integrate real-time order tracking & delivery options
-
----
-
-## 🤝 Support the Movement
-
-**Deshi Pantpreneur** is more than a clothing brand — it's a message:  
-_Style without status. Pride without price._
+- Launch online shop (Wix or Shopify)
+- Mobile responsive site
+- Multi-language support
+- Real-time delivery tracking
 
 ---
 
-## 📩 Contact
+## 🧰 Folder Structure
+...
+
+## 🧰 Folder Structure
+
+📁 Deshi-Pantpreneur/
+├── README.md
+├── /assets
+├── /docs
+├── /site-content
+└── .gitignore
+
+---            ← PASTE HERE!
+
+## 🛠️ Tech Stack (Dev Notes)
+
+- **Wix** – Website Builder & Hosting  
+- **GitHub** – Version Control  
+- *(Future ready: HTML, CSS, JS)*
+
+---
+
+## 📩 Contact Us
 
 📧 Email: deshipantpreneur@gmail.com  
-📱 Facebook | Instagram | TikTok: @DeshiPantpreneur
+📱 Facebook, Instagram, TikTok: `@DeshiPantpreneur`
 
 ---
 
-> Made in Bangladesh. Made with Purpose.  
-> Not made to impress. Made to represent.  
+> _“Not made to impress. Made to represent.”_  
+> **Made in Bangladesh. Made with Purpose.**
+
+
