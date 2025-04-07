@@ -13,9 +13,9 @@ To become the trusted style choice for every hardworking Bangladeshi — from ri
 
 ## 🧵 Our Products
 
-- 👕 **Half-Sleeve Export-Quality T-Shirts**  
-- 👔 **Full-Sleeve Cotton Shirts**  
-- 👖 **Durable Jeans Pants**  
+- 👕 **Half Sleeve Export Quality T-Shirts**
+- 👔 **Full Sleeve Cotton Shirts**
+- 👖 **Durable Jeans Pants**
 - 🩳 **Gabardine for Daily Comfort**
 
 All built for the real lives of real people.
@@ -24,9 +24,9 @@ All built for the real lives of real people.
 
 ## 💡 Why Deshi Pantpreneur?
 
-- Affordable export-quality garments  
-- Designed for the resilient, not the rich  
-- 100% Deshi — stitched with sweat, not silk  
+- Affordable export-quality garments
+- Designed for the resilient, not the rich
+- 100% Deshi — stitched with sweat, not silk
 - A brand for pride, not just style
 
 ---
@@ -41,12 +41,47 @@ All built for the real lives of real people.
 
 ## 🚀 What’s Next
 
-- Launch online shop (Wix or Shopify)  
-- Mobile-responsive site  
-- Multi-language support  
+- Launch online shop (Wix or Shopify)
+- Mobile responsive site
+- Multi-language support
 - Real-time delivery tracking
 
 ---
 
 ## 🧰 Folder Structure
+...
+
+## 🧰 Folder Structure
+
+📁 Deshi-Pantpreneur/
+├── README.md
+├── /assets
+├── /docs
+├── /site-content
+└── .gitignore
+
+---            ← PASTE HERE!
+
+## 🛠️ Tech Stack (Dev Notes)
+
+- **Wix** – Website Builder & Hosting  
+- **GitHub** – Version Control  
+- *(Future ready: HTML, CSS, JS)*
+
+---
+
+## 📩 Contact Us
+
+📧 Email: deshipantpreneur@gmail.com  
+📱 Facebook, Instagram, TikTok: `@DeshiPantpreneur`
+
+---
+
+> _“Not made to impress. Made to represent.”_  
+> **Made in Bangladesh. Made with Purpose.**
+
+Commit changes
+[ Added tech stack and contact section ]
+[ Commit directly to the main branch ]  (✔️ Checked)
+[Green Button] ✔ Commit changes
 
